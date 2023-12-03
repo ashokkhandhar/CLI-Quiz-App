@@ -1,0 +1,15 @@
+{
+  "name": "cli-quiz-app",
+  "version": "1.0.0",
+  "description": "quiz app practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashok Khandhar",
+  "license": "ISC",
+  "dependencies": {
+    "kuler": "^2.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
